@@ -1,7 +1,7 @@
 # Compliance Artifacts
 Practical compliance deliverables such as checklists, SOPs, and risk registers.
 
-* ## [REACH_Compliance_Checklist](02-compliance-artifacts/REACH-compliance-checklist.md)
+* ## [REACH_Compliance_Checklist](https://github.com/aman-singh-legal/eu-compliance-ip-portfolio/blob/main/02-compliance-artifacts/REACH-compliance-checklist.md)
 
 * ## SVHC_Monitoring_Register.md
 
