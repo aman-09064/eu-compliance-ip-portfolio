@@ -4,7 +4,7 @@
 
 This repository documents my structured learning and practical portfolio development in:
 
-- EU regulatory and product compliance (REACH, CLP)
+- [EU regulatory and product compliance (REACH, CLP)](01-learning-notes/REACH.md)
 - Compliance operations and documentation
 - QMS-style issue and CAPA management (Effivity-style)
 - Compliance analytics and reporting
