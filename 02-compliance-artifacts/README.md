@@ -7,7 +7,7 @@ Practical compliance deliverables such as checklists, SOPs, and risk registers.
 
 * ## [Substance_Inventory_Template](https://github.com/aman-09064/eu-compliance-ip-portfolio/blob/main/02-compliance-artifacts/Substance-Inventory.md)
 
-* ## [SDS_Review_Checklist](02-compliance-artifacts)
+* ## [SDS_Review_Checklist](https://github.com/aman-09064/eu-compliance-ip-portfolio/blob/main/02-compliance-artifacts/SDS-checklist.md)
 
 * ## Supplier_REACH_Questionnaire.md
 
