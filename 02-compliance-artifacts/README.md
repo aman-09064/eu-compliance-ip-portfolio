@@ -9,7 +9,7 @@ Practical compliance deliverables such as checklists, SOPs, and risk registers.
 
 * ## [SDS_Review_Checklist](https://github.com/aman-09064/eu-compliance-ip-portfolio/blob/main/02-compliance-artifacts/SDS-checklist.md)
 
-* ## Supplier_REACH_Questionnaire.md
+* ## [Supplier_REACH_Questionnaire](https://github.com/aman-09064/eu-compliance-ip-portfolio/blob/main/02-compliance-artifacts/Supplier-REACH-Questionnaire.md)
 
 * ## Article_33_Communication_Template.md
 
