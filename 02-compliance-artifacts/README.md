@@ -16,3 +16,7 @@ Practical compliance deliverables such as checklists, SOPs, and risk registers.
 * ## [Restriction_Compliance_Checklist.md](https://github.com/aman-09064/eu-compliance-ip-portfolio/tree/main/02-compliance-artifacts)
 
 * ## [CLP Classification Flowchart](https://github.com/aman-09064/eu-compliance-ip-portfolio/blob/main/02-compliance-artifacts/CLP-classification-flowchart.md)
+  
+* ## [Supplier REACH Questionnaire](https://github.com/aman-09064/eu-compliance-ip-portfolio/blob/main/02-compliance-artifacts/supplier-reach-questionnaire.md)
+
+* ## [Article 33 Communication Explanation- Customer]()
